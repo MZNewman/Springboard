@@ -222,7 +222,6 @@ Gulp Missile,"When hit after Surf/Dive, attacker takes 1/4 max HP and -1 Defense
 Hunger Switch,"If Morpeko, it changes between Full Belly and Hangry Mode at the end of each turn."
 Ice Face,"If Eiscue, the first physical hit it takes deals 0 damage. This effect is restored in Hail."
 Ice Scales,This Pokemon receives 1/2 damage from special attacks.
-Intrepid Sword,"On switch-in, this Pokemon's Attack is raised by 1 stage."
 Libero,This Pokemon's type changes to match the type of the move it is about to use.
 Mimicry,This Pokemon's type changes to match the Terrain. Type reverts when Terrain ends.
 Mirror Armor,"If this Pokemon's stat stages would be lowered, the attacker's are lowered instead."

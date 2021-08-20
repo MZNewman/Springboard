@@ -121,6 +121,7 @@
 1038,Toxtricity-Low-Key,75,98,70,114,70,75,40.0,1.6,"['Electric', 'Poison']","['Minus', 'Punk Rock', 'Technician']",['RU'],Standard,"{'dex_number': 849, 'evos': [], 'alts': ['Toxtricity-Low-Key-Gmax'], 'genfamily': ['SS']}"
 1044,Sinistea-Antique,40,45,45,74,54,50,0.2,0.1,['Ghost'],"['Cursed Body', 'Weak Armor']",['LC'],Standard,"{'dex_number': 854, 'evos': ['Polteageist-Antique'], 'alts': [], 'genfamily': ['SS']}"
 1046,Polteageist-Antique,60,65,65,134,114,70,0.4,0.2,['Ghost'],"['Cursed Body', 'Weak Armor']",['NUBL'],Standard,"{'dex_number': 855, 'evos': [], 'alts': [], 'genfamily': ['SS']}"
+1080,Zacian,92,130,115,80,115,138,110.0,2.8,['Fairy'],['Intrepid Sword'],['AG'],Standard,"{'dex_number': 888, 'evos': [], 'alts': [], 'genfamily': ['SS']}"
 1081,Zacian-Crowned,92,170,115,80,115,148,355.0,2.8,"['Fairy', 'Steel']",['Intrepid Sword'],['AG'],Standard,"{'dex_number': 888, 'evos': [], 'alts': [], 'genfamily': ['SS']}"
 1089,Zarude-Dada,105,120,105,70,95,105,70.0,1.8,"['Dark', 'Grass']",['Leaf Guard'],['RU'],Standard,"{'dex_number': 893, 'evos': [], 'alts': [], 'genfamily': ['SS']}"
 12,Weedle,40,35,30,20,20,50,3.2,0.3,"['Bug', 'Poison']","['Run Away', 'Shield Dust']",National Dex,NatDex,"{'dex_number': 13, 'evos': ['Kakuna'], 'alts': [], 'genfamily': ['RB', 'GS', 'RS', 'DP', 'BW', 'XY', 'SM', 'SS']}"
